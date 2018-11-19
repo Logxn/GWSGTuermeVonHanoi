@@ -1,5 +1,5 @@
-# Schule-T-rmeVonHanoi
-Schularbeit - Türme von Hanoi
+# Türme von Hanoi
+Uff.
 
 # Beispiel Output
 [<img src="https://i.imgur.com/siSK1uL.png">]()<br><br>
